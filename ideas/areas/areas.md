@@ -1,25 +1,27 @@
-# Areas
+<link rel="stylesheet" href="../style.css"></link> 
 
-## Tutorial Area
+<h1 style="text-align: center;">Areas</h1>
 
-### Lost Valley
+<h2 style="text-align: center;">Tutorial Area</h2>
+<div class="tutorial">
+<h3>Lost Valley</h3>
 
 - Silent Crossroads
 - Overgrown Grove
 - Broken Vigil
+</div>
+<h3 style="text-align: right"><a href="lost-valley.md">Area Details</a></h3>
 
-[Details](lost-valley.md)
-
-## World Areas
+<h2 style="text-align: center;">World Areas</h2>
 
 ### Gutter's Edge
 
 - Rustwater Alley
 - Blackiron Row
-- Driftwood Quay `optional` `Boss` [Depths' Jewel](../bosses/depths-jewel.md)
-- Ironclad Keep `Boss` [Chained Devourer](../bosses/chained-devourer.md)
+- <span class="optional">Driftwood Quay</span>, Home of [Depths' Jewel](../bosses/depths-jewel.md)
+- <span class="boss">Ironclad Keep</span>, Home of [Chained Devourer](../bosses/chained-devourer.md)
 
-[Details](gutter-edge.md)
+<h3 style="text-align: right"><a href="gutter-edge.md">Area Details</a></h3>
 
 #### Maybe add an area here
 
@@ -29,31 +31,31 @@
 - Ratcatcher's Row
 - Adventurer's Tavern
 - Driftwood Hollow
-- Restless Arena `Boss` [RestlessArenaBoss](../bosses/restless-arena-boss.md)
-- The Gilded Cage `optional` `Boss` [OptionalBoss2](../bosses/optional-boss2.md)
+- <span class="boss">Restless Arena</span>, Home of [Bloodforge Tyrant](../bosses/bloodforge-tyrant.md)
+- <span class="optional">The Gilded Cage</span>, Home of [Shrouded Majesty](../bosses/shrouded-majesty.md)
 
-[Details](gilded-plaza.md)
+<h3 style="text-align: right"><a href="gilded-plaza.md">Area Details</a></h3>
 
 ### Crystal Bloom
 
 - Verdant Circle
 - Emberforge
-- Veil of Shadows `Boss` [VeilOfShadowsBoss](../bosses/veil-of-shadows-boss.md)
-- Obsidian Atheneum `Optional` `Boss` [OptionalBoss3](../bosses/optional-boss3.md)
+- <span class="boss">Veil of Shadows</span>, Home of [Eclipsebound Specter](../bosses/eclipsebound-specter.md)
+- <span class="optional">Obsidian Atheneum</span>, Home of [Keeper of the Echoing Enigma](../bosses/keeper-of-the-echoing-enigma.md)
 - Sigil Square
 - Arcane Forum
-- Spire of Secrets `Boss` [SpireOfSecretsBoss](s../bosses/pire-of-secrets-boss.md)
+- <span class="boss">Spire of Secrets</span>, Home of [Watcher of the Crystal Abyss](s../bosses/watcher-of-the-crystal-abyss.md)
 
-[Details](crystal-bloom.md)
+<h3 style="text-align: right"><a href="crystal-bloom.md">Area Details</a></h3>
 
-### Forgotten Castle
+### <span class="boss">Forgotten Castle
 
-- Washed Ruin (Echo of Driftwood Quay)
-- Gilded Terrace (Echo of The Gilded Cage)
+- Washed Ruin 		<span class="faded-text">(Echo of Driftwood Quay)</span>
+- Gilded Terrace 	<span class="faded-text">(Echo of The Gilded Cage)</span>
 - Forgotten Crypt
-- Cemetery `optional` `Final Boss` [Soul Hunter](s../bosses/oul-hunter.md) (redo name)
-- Obsidian Spire (Echo of Obsidian Atheneum)
-- Obsidian Cells (Echo of Obsidian Atheneum)
-- Throne of the Forgottens `Final Boss` [Lost King](../bosses/lost-king.md)
+- <span class="optional">Graveyard of the Forgotten Voices</span>, Home of [Soul Hunter](../bosses/soul-hunter.md) 
+- Obsidian Spire 	<span class="faded-text">(Echo of Obsidian Atheneum)</span>
+- Obsidian Cells 	<span class="faded-text">(Echo of Obsidian Atheneum)</span>
+- <span class="boss">Throne of the Forgottens</span>, Home of [Lost King](../bosses/lost-king.md)
 
-[Details](forgotten-castle.md)
+<h3 style="text-align: right"><a href="forgotten-castle.md">Area Details</a></h3>

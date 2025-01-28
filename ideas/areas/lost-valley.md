@@ -1,5 +1,4 @@
-# The LOST VALLEY
-
+# Lost Valley
 The Lost Valley is the tutorial area.
 
 Its divided into 3 sections, each with mechanics to learn.
