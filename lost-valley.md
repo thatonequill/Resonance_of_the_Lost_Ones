@@ -2,7 +2,7 @@
 
 The Lost Valley is the tutorial area.
 
-Its divided into 3 sections, each with a mechanic to learn.
+Its divided into 3 sections, each with mechanics to learn.
 
 ### Silent Crossroads
 The Silent crossroads is the first area of the tutorial.
@@ -27,6 +27,15 @@ The area ends with a jumping tutorial, where the player has to jump over a ravin
 
 ### Broken Vigil
 The Broken Vigil is the third and final area of the tutorial.
-It's a small area meant to teach the player on how to craft aswell as the quest system.
+It's a small area meant to teach the player on how to use the ghost form & craft aswell as the quest system.
 
 Upon jumping over the ravine, the player will enter the Broken Vigil. The player is then met by the Resonating Soul, fusing with the player.
+The player then has to undergo a short tutorial on how to use the ghost form, and how to use the ghost form to interact with the environment.
+
+The player will then have to progress further into the area, finding a crafting station, where he will undergo a short tutorial on how to craft an armor.
+
+Then, the player will arrive to a dead end, where they will have to use the ghost form to interact with a Broken Spirit, which will give the player a quest.
+The quest will require the player to fight a miniboss, which will give the player decent loot and update the quest.
+Upon going back to the Broken Spirit, they will be able to complete the quest, opening a secret passage to the next area, allowing the player to finish the tutorial.
+
+[Back to areas](areas.md)
