@@ -38,4 +38,4 @@ Then, the player will arrive to a dead end, where they will have to use the ghos
 The quest will require the player to fight a miniboss, which will give the player decent loot and update the quest.
 Upon going back to the Broken Spirit, they will be able to complete the quest, opening a secret passage to the next area, allowing the player to finish the tutorial.
 
-[Back to areas](areas.md)
+<h2 style="text-align: right"><a href="areas.md">Back to Areas</a></h2>
