@@ -1,23 +1,23 @@
-# ECHOES OF AN ANCIENT WORLD
+# aev.LastByte
 
-Echoes of an Ancient World is a 2D action-adventure game set in a futiristic world with a neon cityscape set in a digital world. The protagonist is a young woman named Aria, who finds herself joining a hacker group called the "Echoes". This group is dedicated to uncovering the truth and unveil of the lies of government, called Vaya, and its dark secrets.
+aev.LastByte is a 2D action-adventure game set in a futiristic world with a neon cityscape set in a digital world. The protagonist is a young woman named Aria, who finds herself joining a hacker group called the "Echoes". This group is dedicated to uncovering the truth and unveil of the lies of government, called Aevum, and its dark secrets.
 To achieve this, the player will have to explore the city and explore a new world that's reminiscent of the old capital, a place where magic was once thriving.
 
 ## Main idea and objective
 
 The player joins the Echoes hacker group, and becomes a "floating byte", a person who is able to move freely from the digital world to the physical world. The objective of the game is to uncover the truth of what happened to the physical world, how the digital world is tightly connected to the physical world, and how the government is involved in the manipulation of the digital world.
-The player will have to go to the physical world to gather information and clues, but be wary of the dangers, as Vaya is watching them. Going to the physical world is a dangerous task, as Vaya is always watching, going too frequently or for too long will result in the player being detected and attacked.
+The player will have to go to the physical world to gather information and clues, but be wary of the dangers, as Aevum is watching them. Going to the physical world is a dangerous task, as Aevum is always watching, going too frequently or for too long will result in the player being detected and attacked.
 
 ## Difficulty
 
 The difficulty of the game is based on the player's actions, as
-Vaya's AI is always watching the player, and will attack if the player is detected. The player will also have to be mindfull of it's items, as variants for both digital and physical world exist, like a healing potion for the physical world, and a Shield injection for the digital world.
+Aevum's AI is always watching the player, and will attack if the player is detected. The player will also have to be mindfull of it's items, as variants for both digital and physical world exist, like a healing potion for the physical world, and a Shield injection for the digital world.
 
 The player will have to upgrade their skill tree accordingly too, as stats aimed for the digital world and stats aimed for the physical world will cohexist. An example of this is "Brute Force", a skill to increase the player's damage in the physical world, and "Digital Manipulation", a skill to increase the player's damage in the digital world. Both will also give slight boosts when within the other wolrd, but these will be minor in comparaison. There are also skills that are universal, like "Swiftness", which increases the player's speed in both worlds.
 
 ## Gameplay
 
-The gameplay is based on exploration, combat, and puzzle solving. The player will have to explore the city and explore an old world that's reminiscent of the fallen capital. The player will collect clues and knowledge to uncover the truth of what happened to the physical world, how the digital world is tightly connected to the physical world, and how the government is involved in the manipulation of the digital world. Gathering this knowledge will allow the Echoes to get closer to the truth, and maybe even confront Vaya directly.
+The gameplay is based on exploration, combat, and puzzle solving. The player will have to explore the city and explore an old world that's reminiscent of the fallen capital. The player will collect clues and knowledge to uncover the truth of what happened to the physical world, how the digital world is tightly connected to the physical world, and how the government is involved in the manipulation of the digital world. Gathering this knowledge will allow the Echoes to get closer to the truth, and maybe even confront Aevum directly.
 
 Gameplay will be divided in 4 distinct parts
 
@@ -31,11 +31,11 @@ Pressing the shift key (L or R) will switch world, from digital to physical and 
 
 One of the key elements of gameplay is the game being in 2 dimensions (within the 2D plan) the digital and physical world.
 The difference in both dimensions resides in major changes in the environment like buildings and objects, as well as enemies that will be similar or complletely different. The digital world is a cramped and dark world, with little to no room to run around in, like small alleys and narrow streets. The physical world is a more open world, with more room to move around in, like wide streets and open spaces.
-This is meant to reward the player for being in the physical world, giving a "risk/reward" system, the risk being getting caught by Vaya, the reward being the ability to move faster.
+This is meant to reward the player for being in the physical world, giving a "risk/reward" system, the risk being getting caught by Aevum, the reward being the ability to move faster.
 
 Enemies will be in both worlds, but will be different, digital enemies will be more human like and have more health, while physical enemies will be more animal like and have less health.
 
-The 2D platformer gameplay will link both world more tightly, as they will be present in "Null Voids", areas where Vaya's control is so week switching between the 2 worlds will be instant. The player will have access to a dash ability when in the digital world, giving the player something to master to speedrun.
+The 2D platformer gameplay will link both world more tightly, as they will be present in "Null Voids", areas where Aevum's control is so week switching between the 2 worlds will be instant. The player will have access to a dash ability when in the digital world, giving the player something to master to speedrun.
 
 Combat will be classic turn based rpg.
 
@@ -47,8 +47,8 @@ Instead of elemental damage, the game will use "damage types", like physical, di
 
 The game will start with the player waking up in it's apartment, having to do some chores and get ready for work. The player will then go to work, where they'll have to do a capcha, before an emergency alarm rings. Upon leaving and following the mass of people, the player will face a "choice", where they can either exit the building or go twards an open door where they saw suspicious people get in. The choice will force the player to investigate, as if they choose to exit the character will refuse and go check it out. Upon following them, the player will be seen, and the Echoes will leave through a data stream, illegal portal leading to somewhere their hideout. Curious about it, the character will try to follow them, but the stream closes before they can get in.
 The player will then be prompted to leave but finds a charm left behind by the Echoes. The player goes back to the apartment, and the Echoes will knock on the door, coming back for their charm.
-The player will then confront the Echoes, asking how they can freely use data streams without Vaya interfering, and if they are members of the rummored hacking group that's been causing trouble to Vaya. The Echoes will then ask the player how much they know about Vaya and the Echoes, and after some back and forth, the Echoes decide to give the player a chance to join them. Warning the player that if they do not join, Vaya will come for them as the Echoes interacted with them. With the charm in hand, the character will decide to join the Echoes and the game will then start.
+The player will then confront the Echoes, asking how they can freely use data streams without Aevum interfering, and if they are members of the rummored hacking group that's been causing trouble to Aevum. The Echoes will then ask the player how much they know about Aevum and the Echoes, and after some back and forth, the Echoes decide to give the player a chance to join them. Warning the player that if they do not join, Aevum will come for them as the Echoes interacted with them. With the charm in hand, the character will decide to join the Echoes and the game will then start.
 
-The player will do a bit of cleaning, getting things ready before leaving promptly, Vaya will not wait. When leaving to the meet point, the player will actually go through a trial, as Vaya is already watching, searching for them. Having to avoid and be stealthy, the player will not be able to leave through the front door of their apartment, instead having to go through their window, which will start the 2D tutorial.
-After this parcour, the player will be able to meet the Echoes. The player will be taken to their hideout, a strange place where the wall and other objects are flowing like wave, some even getting desintegrated with bits floating up. Entering the hideout is as if entering a different world, where everything feels more alive, more free. The player will go to an interogation-like room, to be tested to know if they can be trusted. The Echoes, after asking extensive questions, will decide to trust the player enough to have him go through a trial, or leave now. They warn the player that if they choose to leave, Vaya will come for them as they are marked by the Echoes from just interacting with them. Forced to, the player will undergo the trial, which will be the tutorial.
+The player will do a bit of cleaning, getting things ready before leaving promptly, Aevum will not wait. When leaving to the meet point, the player will actually go through a trial, as Aevum is already watching, searching for them. Having to avoid and be stealthy, the player will not be able to leave through the front door of their apartment, instead having to go through their window, which will start the 2D tutorial.
+After this parcour, the player will be able to meet the Echoes. The player will be taken to their hideout, a strange place where the wall and other objects are flowing like wave, some even getting desintegrated with bits floating up. Entering the hideout is as if entering a different world, where everything feels more alive, more free. The player will go to an interogation-like room, to be tested to know if they can be trusted. The Echoes, after asking extensive questions, will decide to trust the player enough to have him go through a trial, or leave now. They warn the player that if they choose to leave, Aevum will come for them as they are marked by the Echoes from just interacting with them. Forced to, the player will undergo the trial, which will be the tutorial.
 The game officially starts now.
