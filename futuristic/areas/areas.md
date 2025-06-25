@@ -1,8 +1,23 @@
-grid.Region | Digital
-    nod.Area
+| Type                | Extension       |
+| ------------------- | --------------- |
+| **Digital Region**  | `grid.`         |
+| → Main Area         | `node.`         |
+| → Optional Area     | `exo.`          |
+| → Parkour Area      | `∆Null.`        |
+| → Boss              | `axi.`          |
+| → Secret Boss       | `err.`          |
+| **Physical Region** | `root.`         |
+| → Main Area         | `mem.`          |
+| → Optional Area     | `exo.`          |
+| → Parkour Area      | `∆Null_Void.`   |
+| → Boss              | `vest.`         |
+| → Secret Boss       | `err.`          |
+| **Final Boss**      | `aev.sys.Crown` |
 
-root.Region | Physical
-    mem.Area
+# Regions
 
-∆Null_Void.Area, with glitchy font text on for Null voids
-exo.OptionalArea
+## Tutorial - `grid.Flatlight`
+
+-   `node.SlabStreet`
+-   `echo.Breakpoint`
+-   `echo.Recompile`
