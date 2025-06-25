@@ -52,3 +52,25 @@ The player will then confront the Echoes, asking how they can freely use data st
 The player will do a bit of cleaning, getting things ready before leaving promptly, Aevum will not wait. When leaving to the meet point, the player will actually go through a trial, as Aevum is already watching, searching for them. Having to avoid and be stealthy, the player will not be able to leave through the front door of their apartment, instead having to go through their window, which will start the 2D tutorial.
 After this parcour, the player will be able to meet the Echoes. The player will be taken to their hideout, a strange place where the wall and other objects are flowing like wave, some even getting desintegrated with bits floating up. Entering the hideout is as if entering a different world, where everything feels more alive, more free. The player will go to an interogation-like room, to be tested to know if they can be trusted. The Echoes, after asking extensive questions, will decide to trust the player enough to have him go through a trial, or leave now. They warn the player that if they choose to leave, Aevum will come for them as they are marked by the Echoes from just interacting with them. Forced to, the player will undergo the trial, which will be the tutorial.
 The game officially starts now.
+
+| Type                | Extension       | Example Name                               |
+| ------------------- | --------------- | ------------------------------------------ |
+| **Digital Region**  | `grid.`         | `grid.Sector Halo`                         |
+| → Main Area         | `node.`         | `node.Datareach`                           |
+| → Optional Area     | `exo.`          | `exo.Subnet Hollow`                        |
+| → Parkour Area      | `∆Null.`        | `∆Null.Stackfall`                          |
+| → Boss              | `axi.`          | `axi.Helix Render`                         |
+| → Secret Boss       | `err.`          | `err.???` (hidden UI name until beaten)    |
+| **Physical Region** | `root.`         | `root.Skyfold Verge`                       |
+| → Main Area         | `mem.`          | `mem.Loomtrail`                            |
+| → Optional Area     | `exo.`          | `exo.Rifted Niche`                         |
+| → Parkour Area      | `∆Null.`        | `∆Null.Flux End`                           |
+| → Boss              | `vest.`          | `vest.Thorncaller`                          |
+| → Secret Boss       | `err.`          | `err.???` (hidden UI name until beaten)    |
+| **Final Boss**      | `aev.sys.Crown` | Singular area                              |
+
+cns vibe => https://www.1001fonts.com/ressa-font.html
+
+Cant read => https://www.1001fonts.com/4-sided-font.html
+
+vaiiya => https://www.1001fonts.com/quantum-font.html
