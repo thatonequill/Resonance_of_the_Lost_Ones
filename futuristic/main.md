@@ -1,23 +1,23 @@
 # aev.LastByte
 
-aev.LastByte is a 2D action-adventure game set in a futiristic world with a neon cityscape set in a digital world. The protagonist is a young woman named Aria, who finds herself joining a hacker group called the "Echoes". This group is dedicated to uncovering the truth and unveil of the lies of government, called Aevum, and its dark secrets.
+aev.LastByte is a 2D action-adventure game set in a futiristic world with a neon cityscape set in a Glasspace. The protagonist is a young woman named Aria, who finds herself joining a hacker group called the "Echoes". This group is dedicated to uncovering the truth and unveil of the lies of government, called Aevum, and its dark secrets.
 To achieve this, the player will have to explore the city and explore a new world that's reminiscent of the old capital, a place where magic was once thriving.
 
 ## Main idea and objective
 
-The player joins the Echoes hacker group, and becomes a "floating byte", a person who is able to move freely from the digital world to the physical world. The objective of the game is to uncover the truth of what happened to the physical world, how the digital world is tightly connected to the physical world, and how the government is involved in the manipulation of the digital world.
-The player will have to go to the physical world to gather information and clues, but be wary of the dangers, as Aevum is watching them. Going to the physical world is a dangerous task, as Aevum is always watching, going too frequently or for too long will result in the player being detected and attacked.
+The player joins the Echoes hacker group, and becomes a "floating byte", a person who is able to move freely from the Glasspace to the Meatspace. The objective of the game is to uncover the truth of what happened to the Meatspace, how the Glasspace is tightly connected to the Meatspace, and how the government is involved in the manipulation of the Glasspace.
+The player will have to go to the Meatspace to gather information and clues, but be wary of the dangers, as Aevum is watching them. Going to the Meatspace is a dangerous task, as Aevum is always watching, going too frequently or for too long will result in the player being detected and attacked.
 
 ## Difficulty
 
 The difficulty of the game is based on the player's actions, as
-Aevum's AI is always watching the player, and will attack if the player is detected. The player will also have to be mindfull of it's items, as variants for both digital and physical world exist, like a healing potion for the physical world, and a Shield injection for the digital world.
+Aevum's AI is always watching the player, and will attack if the player is detected. The player will also have to be mindfull of it's items, as variants for both Glasspace and Meatspace exist, like a healing potion for the Meatspace, and a Shield injection for the Glasspace.
 
-The player will have to upgrade their skill tree accordingly too, as stats aimed for the digital world and stats aimed for the physical world will cohexist. An example of this is "Brute Force", a skill to increase the player's damage in the physical world, and "Digital Manipulation", a skill to increase the player's damage in the digital world. Both will also give slight boosts when within the other wolrd, but these will be minor in comparaison. There are also skills that are universal, like "Swiftness", which increases the player's speed in both worlds.
+The player will have to upgrade their skill tree accordingly too, as stats aimed for the Glasspace and stats aimed for the Meatspace will cohexist. An example of this is "Brute Force", a skill to increase the player's damage in the Meatspace, and "Digital Manipulation", a skill to increase the player's damage in the Glasspace. Both will also give slight boosts when within the other wolrd, but these will be minor in comparaison. There are also skills that are universal, like "Swiftness", which increases the player's speed in both worlds.
 
 ## Gameplay
 
-The gameplay is based on exploration, combat, and puzzle solving. The player will have to explore the city and explore an old world that's reminiscent of the fallen capital. The player will collect clues and knowledge to uncover the truth of what happened to the physical world, how the digital world is tightly connected to the physical world, and how the government is involved in the manipulation of the digital world. Gathering this knowledge will allow the Echoes to get closer to the truth, and maybe even confront Aevum directly.
+The gameplay is based on exploration, combat, and puzzle solving. The player will have to explore the city and explore an old world that's reminiscent of the fallen capital. The player will collect clues and knowledge to uncover the truth of what happened to the Meatspace, how the Glasspace is tightly connected to the Meatspace, and how the government is involved in the manipulation of the Glasspace. Gathering this knowledge will allow the Echoes to get closer to the truth, and maybe even confront Aevum directly.
 
 Gameplay will be divided in 4 distinct parts
 
@@ -27,15 +27,15 @@ Gameplay will be divided in 4 distinct parts
 -   Bossfights, like the Exploration challenges are going to be in that side view with 2d platformer elements, with added combat.
 
 During map exploration, the player will use wasd or ↑←↓→ to move and space to interact, maybe use the mouse to point and move with right click to interact, depending on how hard it is to implement.
-Pressing the shift key (L or R) will switch world, from digital to physical and vice versa. To switch world, the player will have to use it's hacking skills to break the barriers between the two worlds, a process that will take some time, meaning the player will have to be in a safe place to do so. This transition can be sped up by using rare items or skills, as well as pre placed "Flaws" in the world, a sort of portal.
+Pressing the shift key (L or R) will switch world, from Glasspace to the Meatspace and vice versa. To switch world, the player will have to use it's hacking skills to break the barriers between the two worlds, a process that will take some time, meaning the player will have to be in a safe place to do so. This transition can be sped up by using rare items or skills, as well as pre placed "Flaws" in the world, a sort of portal.
 
-One of the key elements of gameplay is the game being in 2 dimensions (within the 2D plan) the digital and physical world.
-The difference in both dimensions resides in major changes in the environment like buildings and objects, as well as enemies that will be similar or complletely different. The digital world is a cramped and dark world, with little to no room to run around in, like small alleys and narrow streets. The physical world is a more open world, with more room to move around in, like wide streets and open spaces.
-This is meant to reward the player for being in the physical world, giving a "risk/reward" system, the risk being getting caught by Aevum, the reward being the ability to move faster.
+One of the key elements of gameplay is the game being in 2 dimensions (within the 2D plan) the Glasspace and the Meatspace.
+The difference in both dimensions resides in major changes in the environment like buildings and objects, as well as enemies that will be similar or complletely different. The Glasspace is a cramped and dark world, with little to no room to run around in, like small alleys and narrow streets. The Meatspace is a more open world, with more room to move around in, like wide streets and open spaces.
+This is meant to reward the player for being in the Meatspace, giving a "risk/reward" system, the risk being getting caught by Aevum, the reward being the ability to move faster.
 
-Enemies will be in both worlds, but will be different, digital enemies will be more human like and have more health, while physical enemies will be more animal like and have less health.
+Enemies will be in both worlds, but will be different, Aevum enemies will be more human like and have more health, while Verdarch enemies will be more animal like and have less health.
 
-The 2D platformer gameplay will link both world more tightly, as they will be present in "Null Voids", areas where Aevum's control is so week switching between the 2 worlds will be instant. The player will have access to a dash ability when in the digital world, giving the player something to master to speedrun.
+The 2D platformer gameplay will link both world more tightly, as they will be present in "Null Voids", areas where Aevum's control is so week switching between the 2 worlds will be instant. The player will have access to a dash ability when in the Glasspace, giving the player something to master to speedrun.
 
 Combat will be classic turn based rpg.
 
