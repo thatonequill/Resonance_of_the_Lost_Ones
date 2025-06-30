@@ -58,3 +58,35 @@ cns vibe => https://www.1001fonts.com/ressa-font.html
 Cant read => https://www.1001fonts.com/4-sided-font.html
 
 vaiiya => https://www.1001fonts.com/quantum-font.html
+
+
+### 🟦 Aevum-Controlled Zones *(Glasspace)*
+
+| Difficulty | Icon | Designation      | Description                                                  |
+| ---------- | ---- | ---------------- | ------------------------------------------------------------ |
+| 1          | `🟦` | Observation Zone | Safe, tutorial space. Light surveillance and system prompts. |
+| 2          | `🟪` | Adaptive Zone    | Slightly more autonomous. Patrols present, but sparse.       |
+| 3          | `🟥` | Active Control   | Combat-enabled zones with stronger Aevum enforcement.        |
+| 4          | `⬛`  | Locked Grid      | Hostile environments. Core systems and lockdown barriers.    |
+| 5          | `⚠️` | Overclocked      | Highly unstable. Glitchstorms, firewalls, extreme defense.   |
+
+---
+
+### 🌿 Verdarch-Controlled Zones *(Meatspace)*
+
+| Difficulty | Icon | Name       | Description                                                            |
+| ---------- | ---- | ---------- | ---------------------------------------------------------------------- |
+| 1          | `🌿` | Verdant    | Peaceful natural zone, mostly untouched. No active threats.            |
+| 2          | `🍂` | Witherwild | Slight decay or corruption, wildlife grows tense.                      |
+| 3          | `🪻` | Bloomveil  | Strong nature presence, arcane blooms and magical disturbances.        |
+| 4          | `🔮` | Mystic     | Reality thins; magical threats and unpredictable terrain.              |
+| 5          | `🜃` | Deep Myth  | Primeval energy dominates. Legendary beasts and ancient forces awaken. |
+
+---
+
+### ⍉ Fracture Zones *(frx.)*
+
+| Difficulty | Icon | Description                                                              |
+| ---------- | ---- | ------------------------------------------------------------------------ |
+| ⍉          | `⍉`  | Glitch-torn liminal spaces. Systems collapse into myth, logic, or chaos. |
+
