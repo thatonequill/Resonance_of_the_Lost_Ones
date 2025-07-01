@@ -50,7 +50,7 @@ This is not a battlefield. It is aftermath. A quiet chaos. A sacred violation.
 
 ---
 
-## ➤ `null_void.虚空蔵界 ('Void Fundation Realm')` – Transition: *Eldara → Quanta断裂*
+## ➤ `null_void.虚空蔵界 ('Void Foundation Realm')` – Transition: *Eldara → Quanta断裂*
 
 > **Type:** Transition <br>
 > **Description:**<br>
