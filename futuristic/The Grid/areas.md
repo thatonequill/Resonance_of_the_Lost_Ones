@@ -68,7 +68,7 @@ _Ancient, forgotten lands where the magic of the Meatspace is strongest. Crumbli
 -   Optional: `exo.*`
 -   Contains the hidden gateway to the fracture zone
 
-> **Null Void:** `null_void.虚空基盤界 (Kokū Kiban Kai)` — "Void Foundation Realm," barrier between pure magic and digital intrusion.
+> **Null Void:** `null_void.虚空蔵界` — "Void Foundation Realm", barrier between pure magic and digital intrusion.
 > **Null Void:** `null_void.TerminalShift` — Final passage out of the Verdarch realm into the core of Aevum’s systems.
 
 ---

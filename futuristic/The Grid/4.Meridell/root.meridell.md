@@ -1,6 +1,6 @@
 # Meridell
 
-## `Verdarch` – Meatspace Sector 1
+## `Verdarch` – Shard 4
 
 **Difficulty:** 🍂 <br>
 **Realm:** Meatspace

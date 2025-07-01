@@ -1,6 +1,6 @@
 # Nexis
 
-## `Aevum` – Glasspace Sector 2
+## `Aevum` – Shard 3
 
 **Difficulty:** 🟪 <br>
 **Realm:** Glasspace

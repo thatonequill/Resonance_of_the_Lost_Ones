@@ -1,6 +1,6 @@
 # Lumina
 
-## `Aevum` – Glasspace Sector 1
+## `Aevum` – Shard 2
 
 **Difficulty:** 🟪 <br>
 **Realm:** Glasspace

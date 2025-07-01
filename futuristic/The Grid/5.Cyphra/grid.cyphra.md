@@ -1,6 +1,6 @@
 # Cyphra
 
-## `Aevum` – Glasspace Sector 3
+## `Aevum` – Shard 5
 
 **Difficulty:** 🟥 <br>
 **Realm:** Glasspace

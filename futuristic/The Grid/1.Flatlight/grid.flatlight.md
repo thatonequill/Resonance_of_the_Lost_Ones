@@ -1,6 +1,6 @@
 # Flatlight
 
-## `Aevum` - Tutorial Region
+## `Aevum` - Tutorial - Shard 1
 
 **Difficulty:** 🟦 <br>
 **Realm:** Glasspace
